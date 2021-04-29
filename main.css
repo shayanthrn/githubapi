@@ -48,6 +48,24 @@
   padding-right: 30px;
 }
 
+.image{
+  max-width: 150px;
+  border-radius: 50px;
+}
+
+.mybox{
+  display: flex;
+  min-width: 700px;
+}
+
+.bio{
+  margin-left: auto;
+}
+
+.cache{
+  color: red;
+}
+
 img{
   width:100%;
 }
